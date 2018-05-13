@@ -9,6 +9,7 @@ Efektem zadania jest wyszukiwarka gifów pobierająca obrazki przez API (https:/
 Rozwiązania, tchnologie i narzędzia:
 - HTML 5
 - CSS 3
+- RWD
 - React
 - JSX
 - API (https://developers.giphy.com)
